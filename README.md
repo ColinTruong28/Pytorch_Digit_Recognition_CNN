@@ -2,8 +2,7 @@
 
 My Convolutional Neural Network is sequential consisting of a convolutional and a fully connected layer followed by a fully connected classification head, designed to process 28x28 grayscale images into 10 digit classes.
 
-# Results:
-Best validation accuracy: 0.9760
+# Results | Best validation accuracy: 0.9760
 
 # Confusion matrix for best checkpoint:
 $$
